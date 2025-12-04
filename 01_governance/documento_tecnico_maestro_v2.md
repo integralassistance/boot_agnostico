@@ -1,6 +1,52 @@
 # documento_tecnico_maestro_v2.md
 
-```jsx
+```yaml
+id: documento_tecnico_maestro_v2
+id_canonico: boot/agnostico/01_governance/documento_tecnico_maestro_v2
+slug: documento-tecnico-maestro-v2
+titulo: Documento Técnico Maestro v2
+tipo: documento_tecnico
+version: 2.0.0
+estado: vigente
+origen: canonico
+ubicacion:
+  logica: boot/agnostico/01_governance/documento_tecnico_maestro_v2
+  fisica: boot_agnostico/01_governance/documento_tecnico_maestro_v2
+raiz: boot_agnostico
+dependencias:
+  - documento_rector_interno_v2
+descripcion: >
+  Documento Técnico Maestro v2 del Boot Agnóstico. Establece el marco normativo
+  mínimo y las reglas técnicas que aseguran consistencia entre el Canon v2, el Documento
+  Rector Interno v2, los manuales técnicos operativos, los workflows presentes y futuros,
+  y los sistemas de gobernanza, automatización y auditoría del Boot. Define principios
+  inmutables para evitar drift documental, semántico y operativo a medida que el Boot
+  evoluciona, garantizando coherencia estructural en todas las máquinas y verticales.
+criterios_aceptacion:
+  - Debe respetar las normas del Canon v2 sin redefinirlas.
+  - Debe alinear semántica y operación sin superponer funciones de manuales técnicos.
+  - Debe ser compatible con workflows presentes y futuros sin requerir modificaciones.
+  - Debe ser estable bajo auditorías de Machine 01 (Governance).
+  - No debe contener contratos JSON ni estructuras operativas.
+  - Debe definir solo reglas normativas y de arquitectura técnica general.
+changelog:
+  - 2025-12-03: Publicación de la versión oficial del Documento Técnico Maestro v2 bajo el estándar YAML Global v1.1 + extensiones.
+extensiones:
+  propietario: boot_agnostico
+  sensibilidad: interna
+  etiquetas:
+    - governance
+    - canon_v2
+    - documento_tecnico
+    - arquitectura
+  metricas:
+    version_arquetipo: 2
+  riesgos:
+    - Cambios operativos futuros deben manejarse en manuales técnicos, no en el Documento Maestro.
+    - El crecimiento de verticales no debe inducir drift semántico.
+  hitos:
+    - Integración total con Canon v2.
+    - Auditoría de consistencia 100% aprobada.
 
 ```
 
