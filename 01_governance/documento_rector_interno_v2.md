@@ -30,6 +30,7 @@ extensiones:
     - alteración indebida puede comprometer la coherencia total del Boot.
   metrica_relevancia: alta
 ```
+---
 
 ## 1. Propósito
 
