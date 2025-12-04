@@ -47,7 +47,6 @@ extensiones:
   hitos:
     - Integración total con Canon v2.
     - Auditoría de consistencia 100% aprobada.
-
 ```
 
 ---
