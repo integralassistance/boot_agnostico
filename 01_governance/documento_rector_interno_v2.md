@@ -112,7 +112,7 @@ El drift debe ser detectado, bloqueado y corregido inmediatamente.
 
 ## 9. Operación General del Boot
 
-Ninguna máquina del sistema puede operar si la Máquina 01 — Governance detecta inconsistencias, drift o violaciones al canon.
+Ninguna máquina del sistema puede operar si la Máquina 01_Governance detecta inconsistencias, drift o violaciones al canon.
 
 El Boot Agnóstico v2 opera mediante:
 
@@ -132,4 +132,3 @@ Este documento actúa como guía principal sobre la cual se construyen el resto 
 Este documento establece las reglas superiores del sistema.\
 Nada puede contradecirlo.\
 Toda modificación requiere revisión de gobernanza y registro estructural.
-
