@@ -86,11 +86,10 @@ La divergencia no está permitida.
 
 1. **Documento Rector Interno v2** (este documento)
 2. **Documento Técnico de Reinicio Total v2**
-3. Estándar YAML Global v1.1 + extensiones
-4. Reglas Semánticas Canon Completo
-5. Documentos técnicos por máquina
-6. Documentos auxiliares
-7. Archivo histórico (no operativo)
+3. Documentos y manuales técnicos por máquina
+4. Documentos auxiliares
+5. verticales
+6. Archivo histórico (no operativo)
 
 ## 7. Regla de No-Contaminación
 
